@@ -1,0 +1,8 @@
+c:\Users\centertr01\dojo\c\deckofcards\bin\Debug\netcoreapp1.1\deckofcards.deps.json
+c:\Users\centertr01\dojo\c\deckofcards\bin\Debug\netcoreapp1.1\deckofcards.runtimeconfig.json
+c:\Users\centertr01\dojo\c\deckofcards\bin\Debug\netcoreapp1.1\deckofcards.runtimeconfig.dev.json
+c:\Users\centertr01\dojo\c\deckofcards\bin\Debug\netcoreapp1.1\deckofcards.dll
+c:\Users\centertr01\dojo\c\deckofcards\bin\Debug\netcoreapp1.1\deckofcards.pdb
+c:\Users\centertr01\dojo\c\deckofcards\obj\Debug\netcoreapp1.1\deckofcards.AssemblyInfo.cs
+c:\Users\centertr01\dojo\c\deckofcards\obj\Debug\netcoreapp1.1\deckofcards.dll
+c:\Users\centertr01\dojo\c\deckofcards\obj\Debug\netcoreapp1.1\deckofcards.pdb
