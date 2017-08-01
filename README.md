@@ -7,7 +7,7 @@ Done as team event/presentation.
 
 <img src="https://s3.amazonaws.com/General_V88/boomyeah2015/codingdojo/curriculum/content/chapter/holding-a-hand-of-cards.jpg" alt="Coding Dojo Assignment Image">
 
-      The goal of this assignment is to practice many of the OOP ideas we went over in the previous tabs. We will be constructing three different classes; Card, Deck, and Player, that should give us the base foundation for creating just about any card game we want! This is a very important assignment, as these concepts are the essentials to working with Classes, Objects, and their associated Methods All future lecture and assignments will continue to be built upon these concepts presented here as we continue through the course.
+The goal of this assignment is to practice many of the OOP ideas we went over in the previous tabs. We will be constructing three different classes; Card, Deck, and Player, that should give us the base foundation for creating just about any card game we want! This is a very important assignment, as these concepts are the essentials to working with Classes, Objects, and their associated Methods All future lecture and assignments will continue to be built upon these concepts presented here as we continue through the course.
 
 <h3>To Do</h3>
 
